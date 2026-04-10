@@ -98,7 +98,43 @@ const [article, setArticle] = useState({
 });
 
 
-
+const newsArticles = [
+{  
+  id: "1", // Unique identifier for mapping
+  title: "AI Breakthrough: New Language Model Announced",
+  author: "Jane Doe",
+  description: "A major AI research lab unveils their newest language model, promising higher accuracy.",
+  urlToImage: "https://example.com/images/ai-breakthrough.jpg",
+  publishedAt: "2026-04-10T12:00:00Z",
+  content: "Full article content goes here...",
+  source: {
+    name: "Tech News Daily",
+    url: "https://technewsdaily.com"
+  }
+},
+{  id: "1", // Unique identifier for mapping
+  title: "AI Breakthrough: New Language Model Announced",
+  author: "Jane Doe",
+  description: "A major AI research lab unveils their newest language model, promising higher accuracy.",
+  urlToImage: "https://example.com/images/ai-breakthrough.jpg",
+  publishedAt: "2026-04-10T12:00:00Z",
+  content: "Full article content goes here...",
+  source: {
+    name: "Tech News Daily",
+    url: "https://technewsdaily.com"
+  }},
+{  id: "1", // Unique identifier for mapping
+  title: "AI Breakthrough: New Language Model Announced",
+  author: "Jane Doe",
+  description: "A major AI research lab unveils their newest language model, promising higher accuracy.",
+  urlToImage: "https://example.com/images/ai-breakthrough.jpg",
+  publishedAt: "2026-04-10T12:00:00Z",
+  content: "Full article content goes here...",
+  source: {
+    name: "Tech News Daily",
+    url: "https://technewsdaily.com"
+  }},
+];
 
 
 

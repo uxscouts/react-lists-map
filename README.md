@@ -1,2 +1,2 @@
-# react-array-desctructuring-01
-various examples and study of React Array Destructuring
+# react-lists-map
+Lots of demos of lists and use of map() function to retrieve specific values
